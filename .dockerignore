@@ -1,0 +1,15 @@
+# Ignorar el directorio de dependencias locales
+node_modules
+
+# Ignorar la carpeta de compilación
+dist
+build
+
+# Ignorar archivos y carpetas innecesarios
+.git
+.gitignore
+Dockerfile
+.dockerignore
+npm-debug.log
+yarn-error.log
+.env
